@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSVParser.iml" filepath="$PROJECT_DIR$/CSVParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSVParser.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CSVParser.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSVParser.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CSVParser.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiscJava.iml" filepath="$PROJECT_DIR$/MiscJava.iml" />
     </modules>
   </component>
